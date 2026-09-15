@@ -6,3 +6,4 @@ Weekly project status tracking
 - Project initiated
 - Team Members assigned
 - Initial budget approved: $50,000
+---
